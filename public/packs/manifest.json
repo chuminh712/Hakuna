@@ -1,0 +1,44 @@
+{
+  "application.js": "/packs/js/application-f33e4e190ba9594869f5.js",
+  "application.js.map": "/packs/js/application-f33e4e190ba9594869f5.js.map",
+  "custom.js": "/packs/js/custom-02c328a4a57866892118.js",
+  "custom.js.map": "/packs/js/custom-02c328a4a57866892118.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-f33e4e190ba9594869f5.js"
+      ],
+      "js.map": [
+        "/packs/js/application-f33e4e190ba9594869f5.js.map"
+      ]
+    },
+    "custom": {
+      "js": [
+        "/packs/js/custom-02c328a4a57866892118.js"
+      ],
+      "js.map": [
+        "/packs/js/custom-02c328a4a57866892118.js.map"
+      ]
+    },
+    "owl": {
+      "js": [
+        "/packs/js/owl-564d2ff260f8b0426bb1.js"
+      ],
+      "js.map": [
+        "/packs/js/owl-564d2ff260f8b0426bb1.js.map"
+      ]
+    },
+    "smoothscroll": {
+      "js": [
+        "/packs/js/smoothscroll-631b3c90d44811cbb5a5.js"
+      ],
+      "js.map": [
+        "/packs/js/smoothscroll-631b3c90d44811cbb5a5.js.map"
+      ]
+    }
+  },
+  "owl.js": "/packs/js/owl-564d2ff260f8b0426bb1.js",
+  "owl.js.map": "/packs/js/owl-564d2ff260f8b0426bb1.js.map",
+  "smoothscroll.js": "/packs/js/smoothscroll-631b3c90d44811cbb5a5.js",
+  "smoothscroll.js.map": "/packs/js/smoothscroll-631b3c90d44811cbb5a5.js.map"
+}

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= full_title(yield :title) %></title>
+    <%= render "layouts/rails_default" %>
+  </head>
+  <body id="top" data-spy="scroll" data-target=".navbar-collapse" data-offset="50">
+    <%= render partial: "layouts/header" %>
+    <% flash.each do |message_type, message| %>
+      <div class="alert alert-<%= message_type %>">
+        <%= message %>
+      </div>
+    <% end %>
+    <%= yield %>
+    <%= render partial: "layouts/footer" %>
+  </body>
+</html>

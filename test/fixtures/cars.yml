@@ -1,0 +1,33 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  year_of_manufacture: one
+  image: MyString
+  price: 1
+  gearbox: one
+  car_type: one
+  car_model: one
+  color: one
+  number_of_seat: one
+  brand: one
+  condition: one
+  mileage: 1
+  fuel: one
+  origin: one
+  post: one
+
+two:
+  year_of_manufacture: two
+  image: MyString
+  price: 1
+  gearbox: two
+  car_type: two
+  car_model: two
+  color: two
+  number_of_seat: two
+  brand: two
+  condition: two
+  mileage: 1
+  fuel: two
+  origin: two
+  post: two
