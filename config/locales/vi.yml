@@ -1,0 +1,47 @@
+vi:
+  base_title: "Car Shop"
+  car_shop: "Car Shop"
+  home: "Trang chủ"
+  about_us: "Về chúng tôi"
+  log_in: "Đăng nhập"
+  contact_us: "Liên hệ"
+  news: "Tin tức"
+  sign_up: "Đăng ký"
+  layouts:
+    header:
+      car_list: "Danh sách xe"
+    footer:
+      headquarter: "Trụ sở"
+      newsletter_signup: "Đăng ký đại lý"
+      contact_info: "Thông tin liên hệ"
+      quick_links: "Đường dẫn"
+      copy_right: "Bản quyền"
+      company_name: "Công ty 2020"
+  static_pages:
+    home:
+      featured_cars: "Danh sách xe mới"
+      latest_blog_posts: "Tin tức mới"
+    contact_us:
+      we_love: "Chúng tôi thích thảo luận. Hãy liên hệ với chúng tôi!"
+      full_name: "Nhập họ tên"
+      email: "Nhập địa chỉ email"
+      tell_us: "Gửi cho chúng tôi nội dung"
+      send_message: "Gửi"
+  users:
+    new:
+      name: "Tên"
+      email: "Email"
+      password: "Mật khẩu"
+      address: "Địa chỉ"
+      phone_number: "Số điện thoại"
+      sign_up_fail: "Đăng ký thất bại"
+      sign_up_success: "Bạn đã đăng ký thành công"
+      confirmation: "Xác nhận mật khẩu"
+  sessions:
+    new:
+      new_user: "Bạn chưa có tài khoản? Đừng lo!"
+      sign_up: "Đăng ký"
+      remember_me: "Nhớ mật khẩu"
+    create:
+      log_in_fail: "Tên đăng nhập hoặc mật khẩu không đúng"
+
